@@ -4,12 +4,13 @@ namespace Boodschappen
 {
     class Program
     {
+        const string product = "Koffie";
+        const float prijsExclBtw = 3.95f;
+        const float btwPercentage = 0.21f;
+
         static void Main(string[] args)
         {
-            const string product = "Koffie";
             int aantal;
-            const float prijsExclBtw = 3.95f;
-            const float btwPercentage = 0.21f;
 
             Console.WriteLine("Een pakje " + product + " kost " + prijsExclBtw + " ex btw.");
             Console.WriteLine("Voer een aantal in: ");

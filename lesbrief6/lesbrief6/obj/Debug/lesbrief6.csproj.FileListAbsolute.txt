@@ -5,3 +5,10 @@ C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief6\lesbrief
 C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief6\lesbrief6\obj\Debug\lesbrief6.csproj.CoreCompileInputs.cache
 C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief6\lesbrief6\obj\Debug\lesbrief6.exe
 C:\Users\Gebruiker\Documents\School\Informatica\C#\Coderclass\lesbrief6\lesbrief6\obj\Debug\lesbrief6.pdb
+C:\Users\Jelle\Desktop\C#\lesbrief6\lesbrief6\bin\Debug\lesbrief6.exe.config
+C:\Users\Jelle\Desktop\C#\lesbrief6\lesbrief6\bin\Debug\lesbrief6.exe
+C:\Users\Jelle\Desktop\C#\lesbrief6\lesbrief6\bin\Debug\lesbrief6.pdb
+C:\Users\Jelle\Desktop\C#\lesbrief6\lesbrief6\obj\Debug\lesbrief6.csprojAssemblyReference.cache
+C:\Users\Jelle\Desktop\C#\lesbrief6\lesbrief6\obj\Debug\lesbrief6.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Desktop\C#\lesbrief6\lesbrief6\obj\Debug\lesbrief6.exe
+C:\Users\Jelle\Desktop\C#\lesbrief6\lesbrief6\obj\Debug\lesbrief6.pdb
