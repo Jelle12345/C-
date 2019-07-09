@@ -9,22 +9,31 @@ namespace lesbrief8
     class Mobiel
     {
         const float btw = 0.21f;
-        public float prijs = 3.95f;
-        public string Type;
-        public string Model;
-        public string OS;
+        private float prijs = 3.95f;
+        private string type;
+        private string model;
+        private string os;
 
-        public Mobiel(string nType, string nModel, string nOS)
+        public Mobiel(string nType, string nModel, string nOS, float nPrijs)
         {
-            Type = nType;
-            Model = nModel;
-            OS = nOS;
+            type = nType;
+            model = nModel;
+            os = nOS;
+            prijs = nPrijs;
         }
         public float Btw(int aantal)
         {
             return aantal * prijs + ((aantal * prijs) * btw);
         }
 
+        public void SetPrijs(float nPrijs)
+        {
+            prijs = nPrijs;
+        }
 
+        public string GetType()
+        {
+            return type;
+        }
     }
 }

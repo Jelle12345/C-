@@ -20,7 +20,7 @@ namespace Boodschappen
             Console.ReadLine();
 
         }
-        public static float BtwBerekening(int aantal, float btwPrijs, float btwPercentage)
+        public static float BtwBerekening(int aantal)
         {
             return (aantal * btwPrijs) * btwPercentage;
         }
